@@ -1,4 +1,4 @@
-name: VancouverFoodDashboard.yaml
+name: vancouver-food-dashboard
 channels:
   - conda-forge
 dependencies:
